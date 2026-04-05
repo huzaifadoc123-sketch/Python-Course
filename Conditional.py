@@ -1,0 +1,32 @@
+import turtle
+
+#creating canvas
+turtle.Screen().bgcolor("yellow")
+board =turtle.Turtle()
+
+#creating the triangle for star
+board.forward(100)#drawa base
+
+board.left(120)
+board.forward(100)#drawa second line
+
+board.left(120)
+board.forward(100)#drawa third line
+
+board.penup()
+board.right(150)
+board.forward(50)
+
+#second triangle for star
+board.pendown()
+board.right(90)
+board.forward(100)
+
+board.right(120)
+board.forward(100)
+
+board.right(120)
+board.forward(100)
+
+turtle.done()
+        
