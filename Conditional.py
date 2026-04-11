@@ -1,32 +1,40 @@
+
+
+
 import turtle
 
-#creating canvas
-turtle.Screen().bgcolor("yellow")
-board =turtle.Turtle()
+t = turtle.Turtle()
 
-#creating the triangle for star
-board.forward(100)#drawa base
+s = turtle.Screen()
 
-board.left(120)
-board.forward(100)#drawa second line
+colours = ['red', 'purple', 'blue', 'green', 'yellow', 'orange']
 
-board.left(120)
-board.forward(100)#drawa third line
+s.bgcolor('black')
 
-board.penup()
-board.right(150)
-board.forward(50)
+t.speed('fastest')
 
-#second triangle for star
-board.pendown()
-board.right(90)
-board.forward(100)
+t.hideturtle()
 
-board.right(120)
-board.forward(100)
+while True:
 
-board.right(120)
-board.forward(100)
+	for x in range(200):
 
-turtle.done()
-        
+		t.pencolor(colours[x % len(colours)])
+
+		t.width(x / 100 + 1)
+
+		t.forward(x)
+
+		t.left(59)
+
+	t.right(239)
+
+	for x in range(200, 0, -1):
+
+		t.pencolor('black')
+
+		t.width(x / 100 + 7)
+
+		t.forward(x)
+
+		t.right(59)
