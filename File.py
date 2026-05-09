@@ -1,4 +1,4 @@
-file = open("Condigal.txt", "r")
+file = open("Condigal.txt","r")
 
 print(file.read())
 
