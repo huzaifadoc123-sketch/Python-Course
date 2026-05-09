@@ -1,0 +1,3 @@
+This is the new content of the file.Hi, I am a Penguin, I am a bird but I cannot fly.
+ file in append mode:-
+ I am a Penguin, I am a bird but I cannot fly.
