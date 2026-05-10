@@ -1,6 +1,4 @@
-This is the new content of the file.Hi, I am a Penguin, I am a bird but I cannot fly.
- file in append mode:-
- I am a Penguin, I am a bird but I cannot fly.
+Penguin, I am a bird but I cannot fly.
  jafdflkdsajfalksjfasdjfsafjdskjfds
  dajsfklfjeowrjjflkdsafksdfndafancf jfnocromfd
  lorem 24
@@ -23,3 +21,9 @@ This is the new content of the file.Hi, I am a Penguin, I am a bird but I cannot
  jafdflkdsajfalksjfasdjfsafjdskjfdsj
  jafdflkdsajfalksjfasdjfsafjdskjfdsj
  jafdflkdsajfalksjfasdjfsafjdskjfds
+ Hi! My name is Huzaifa and I am 16 years old
+ Hi! My name is Huzaifa and I am 16 years old
+ Hi! My name is Huzaifa and I am 16 years old
+ Hi! My name is Huzaifa and I am 16 years old
+ Hi! My name is Huzaifa and I am 16 years old
+ Hi! My name is Huzaifa and I am 16 years old Hi! I am Penguin and I am 1 yr old. Hi! I am Penguin and I am 1 yr old. Hi! I am Penguin and I am 1 yr old. Hi! I am Penguin and I am 1 yr old. Hi! I am Penguin and I am 1 yr old. Hi! I am Penguin and I am 1 yr old. Hi! I am Penguin and I am 1 yr old. Hi! I am Penguin and I am 1 yr old.
