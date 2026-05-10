@@ -1,4 +1,4 @@
 Class: 9
 Total Marks: 100
-Obtained Marks: 98
-Position:   1
+Obtained Marks: 90
+Postion:  2
